@@ -40,4 +40,7 @@ This device allows you to **track location in real-time**, send **SOS alerts**, 
 
 
 ## website 
-https://techiesms.com/
+- https://techiesms.com/
+- https://youtu.be/ENxouRuxUlE?si=i30_rY9sQ0sL9Hf4
+
+
